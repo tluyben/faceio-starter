@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+.success {
+    color: green;
+    font-weight: bold;
+}
+
+.error {
+    color: red;
+    font-weight: bold;
+}
+
+/* Sources: */
+/* 1. https://stackoverflow.com/questions/44922110/adding-customized-straight-line-on-x-axis-by-jpgrph */
+/* 2. https://github.com/bethropolis/suplike-social-website */
+/* 3. https://easycodesamples.com/php/create-a-login-form-in-php-and-mysql */
