@@ -1,0 +1,27 @@
+# Dependencies
+/vendor/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+/logs/
+
+# Cache files
+*.cache
+
+# Composer
+composer.phar

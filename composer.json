@@ -1,0 +1,14 @@
+{
+    "name": "faceio/starter",
+    "description": "FaceIO Starter Project",
+    "type": "project",
+    "require": {
+        "vimeo/php-mysql-engine": "^0.7.5",
+        "vlucas/phpdotenv": "^5.6"
+    },
+    "authors": [
+        {
+            "name": "FaceIO"
+        }
+    ]
+}
